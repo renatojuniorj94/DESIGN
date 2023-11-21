@@ -1,0 +1,20 @@
+Tamanho arquivo ultra wide:
+
+2560px (Largura)
+
+Tamanho normal (full) :
+
+1920px
+
+Tamanho do box para não haver perda de conteúdo:
+
+1080px
+
+---------------------------
+
+Grids:
+
+Para monitores: 12 colunas
+
+para mobile: 4 colunas
+
