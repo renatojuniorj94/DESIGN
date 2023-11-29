@@ -24,3 +24,29 @@ Fontes para Landing Page:
 
 Titulo: 12px - 14 - 16 - 18 - 20 - 24 - 32 - 48 - 50
 Descrição: 
+
+-----------------Estrutura para página de captura - Evento gratuito--------------------
+
+Header
+    1 - Nome do Evento
+    2 - Uma chamada - uma grande promessa
+    3 - Data e horário - Deixar claro
+    4 - Evento 100% online e gratuito
+    5 - CTA - Campo de email, nome, telefone...
+
+Section 1 - Copy para apresentação de oportunidade
+    Ex: Vou compartilhar tudo o que sei sobre bolos de alto padrão, vamos falar do mercado do mercado que mais cresce no Brasil e você tem essa oportunidade de aprender como faturar de 5 a 10mil por mês com bolos.
+
+Section 2 - Para quem é o Evento
+    Ex: Para você mulher que não tem oportunidade de trabalhar no mercado tradicional. Para você confeiteira que quer aprimorar suas técnicas
+
+Section 3 - Como o evento vai funcionar (Programação)
+    Dia 1 - Materiais necessarios
+    Dia 2 - Como criar sua conta no instagram
+    Dia 3 - Como preparar seus bolos em casa
+    Dia 4 - Como vender para pessoas proximas
+    Dia 5 - Como você pode viver de bolos
+
+Section 4 - Apresentação do especialista
+
+Section 5 - Cronômetro - Save the date
