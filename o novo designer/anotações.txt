@@ -18,3 +18,9 @@ Para monitores: 12 colunas
 
 para mobile: 4 colunas
 
+----------------------Criando no Figma---------------------------
+
+Fontes para Landing Page:
+
+Titulo: 12px - 14 - 16 - 18 - 20 - 24 - 32 - 48 - 50
+Descrição: 
