@@ -50,3 +50,5 @@ Section 3 - Como o evento vai funcionar (Programação)
 Section 4 - Apresentação do especialista
 
 Section 5 - Cronômetro - Save the date
+
+--------------Diagrmando LP do zero pt1-------------------
